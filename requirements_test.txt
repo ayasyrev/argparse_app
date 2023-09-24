@@ -2,4 +2,5 @@ pytest
 pytest-cov
 coverage[toml]
 flake8
+cli_result
 #nox
